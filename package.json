@@ -3,6 +3,9 @@
   "displayName": "draculucca",
   "description": "HenryLucca's version of the Dracula theme :)",
   "version": "0.0.1",
+  "publisher": "HenryLucca",
+  "repository": "https://github.com/HenryLucca/draculucca",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.86.0"
   },
