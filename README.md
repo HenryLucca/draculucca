@@ -1,6 +1,6 @@
 # Draculucca - Visual Studio Code Theme Extension
 
-![Draculucca](https://example.com/draculucca.png)
+![Draculucca Preview](https://i.ibb.co/kyRvr8d/draculucca-printscreen.jpg)
 
 Draculucca is a Visual Studio Code theme extension based on the popular Dracula theme. It is created by HenryLucca.
 
