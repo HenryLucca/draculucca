@@ -10,9 +10,9 @@ You can install the Draculucca theme extension by following these steps:
 
 1. Launch Visual Studio Code.
 2. Go to the Extensions view by clicking on the square icon on the left sidebar or by pressing `Ctrl+Shift+X`.
-3. Search for "Draculucca" in the Extensions view search box.
-4. Click on the "Install" button next to the Draculucca theme extension.
-5. Once installed, click on the "Reload" button to activate the theme.
+   [Link Text](URL)
+3. Click on the "Install" button next to the Draculucca theme extension. Or open this link in your browser: [Draculucca - Visual Studio Code Theme](https://marketplace.visualstudio.com/items?itemName=HenryLuccaDev.draculucca)
+4. Once installed, click on the "Reload" button to activate the theme.
 
 ## Features
 
