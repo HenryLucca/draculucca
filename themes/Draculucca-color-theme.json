@@ -1,6 +1,7 @@
 {
   "name": "Draculucca",
   "colors": {
+    // editor
     "editor.background": "#18181b",
     "editor.foreground": "#eeffff",
     // activitybar
@@ -22,7 +23,16 @@
     "titleBar.inactiveBackground": "#240e08",
     "titleBar.border": "#ef4444",
     "titleBar.activeForeground": "#e1e1e1",
-    "titleBar.inactiveForeground": "#6e7282"
+    "titleBar.inactiveForeground": "#6e7282",
+    // button
+    "button.background": "#8a5587",
+    // input
+    "input.background": "#27272a",
+    // dropdwon
+    "dropdown.background": "#27272a",
+    // panel
+    "panelTitle.activeForeground": "#ff0000",
+    "panelTitle.inactiveForeground": "#bb0303",
   },
   "tokenColors": [
     {
